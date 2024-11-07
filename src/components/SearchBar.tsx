@@ -9,7 +9,7 @@ const SearchBar: React.FC = () => (
         placeholder="Pesquisar..."
         className="border border-gray-300 p-2 w-full rounded-l-md"
       />
-      <button className="bg-red-600 text-white px-4 rounded-r-md hover:bg-red-700">
+      <button className="bg-primaryPurple text-white px-4 rounded-r-md hover:bg-purple-700">
         Pesquisar
       </button>
     </div>

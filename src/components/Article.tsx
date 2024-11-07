@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Article: React.FC = () => (
-  <article className="bg-white shadow p-6 mb-8">
+  <article className="bg-white shadow p-6 mb-8 border-gray-200">
     <div className="flex items-center space-x-2 mb-4">
       <span className="bg-red-500 text-white px-3 py-1 rounded-full text-xs font-semibold">
         Notícias
