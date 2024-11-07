@@ -34,7 +34,7 @@ const BreakingNewsBar: React.FC = () => {
   useEffect(() => {
     const interval = setTimeout(() => {
       handleNext();
-    }, 2000);
+    }, 4000);
 
     // Clear the interval on component unmount or if currentIndex changes
     return () => clearTimeout(interval);

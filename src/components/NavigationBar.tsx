@@ -7,7 +7,7 @@ const NavigationBar: React.FC = () => (
       <a href="#" className="hover:underline flex items-center">
         <IoIosHome className="bg-yellow-500" />
       </a>
-      <a href="#">Programas Gravados</a>
+      <a href="https://podcasters.spotify.com/pod/show/radiocuquema">Programas Gravados</a>
       <a href="#">Empregos</a>
       <a href="#">Emissão em Direto</a>
     </div>
