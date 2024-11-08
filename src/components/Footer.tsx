@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
         <p>
           Copyright © 2024 Rádio Cuquema. Todos os direitos reservados. | Desenvolvido por 
           <a href="#" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline ml-1">
-            Armando Quinanga
+            Império Salomão 
           </a>
         </p>
       </div>
